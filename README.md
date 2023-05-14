@@ -1,2 +1,2 @@
-# Campus-Kuppi
-IEEE CODESPRIN - Figma design of the peer tutoring website
+# Figma Design
+IEEE CODESPRINT - Figma design of the peer tutoring website
